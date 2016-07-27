@@ -1,0 +1,10 @@
+.cache
+.idea
+.project
+.settings
+
+
+.sass-cache
+
+bower_components
+node_modules
